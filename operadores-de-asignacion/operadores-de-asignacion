@@ -1,0 +1,59 @@
+
+// Declarar dos variables a = 10 y b = 5. Usar a += b y mostrar el resultado.
+let a = 10;
+let b = 5;
+a += b; // a = a + b
+console.log(a);
+
+// Declarar una variable x = 8 y restarle 3 usando x -=. 
+//let x = 8;
+x -= 3; // x = x - 3
+console.log(x);
+
+// Declarar una variable precio = 15 y multiplicarla por 2 usando *=.
+let precio = 15;
+precio *= 2; //
+console.log(precio);
+
+// Declarar una variable total = 100 y dividirla entre 4 usando /=. 
+let total = 100;
+total /= 4; // 
+console.log(total);
+
+// Declarar una variable residuo = 17 y usar %= con 5 para obtener el resto. 
+let residuo = 17;
+residuo %= 5; // residuo = residuo % 5
+console.log(residuo);
+
+// Declarar una variable contador = 0 y sumarle 1 tres veces usando +=.
+let contador = 0;
+contador += 1;
+contador += 1;
+contador += 1;
+console.log(contador);
+
+
+// Declarar una variable dinero = 1000, restarle 200 usando -= y mostrar el resultado. 
+let dinero = 1000;
+dinero -= 200; // 
+console.log(dinero);
+
+//  Declarar una variable altura = 1.5, multiplicarla por 3 con *= y mostrar el nuevo valor. 
+let altura = 1.5;
+altura *= 3; // altura = altura * 3
+console.log(altura);
+
+// Declarar una variable x = 10, luego realizar las siguientes operaciones secuenciales: x += 5, x *= 2, x -= 4. Imprimir el resultado final. 
+let x = 10;
+x += 5; // x = 15
+x *= 2; // x = 30
+x -= 4; // x = 26
+console.log(x);
+
+// Declarar una variable mensaje = "Hola" y concatenar otro texto usando +=. 
+let mensaje = "Hola";
+mensaje += " Mundo";
+console.log(mensaje);
+
+
+
